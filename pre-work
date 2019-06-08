@@ -1,0 +1,38 @@
+<html>
+
+  <head>
+       <title><B>UN POCO SOBRE MI</B></title>
+  </head>
+  <body>􏰀
+    <h1><i><b>YO</b></i></h1>
+      <p>¡Hola! Me llamo Tatiana Campos, tengo 19 años, estudio ingenieria de sistemas en la Pontificia Universidad Javeriana, hasta ahora voy comenzando.</p>
+      <p>Me gusta dibujar, escirbir, leer, escuchar musica, aprender cosas nuevas y hacer ejercicio.</p>
+      <p> Mi familia no es grande, vivo con mi mama, mi hermana y mi perro. </p>
+
+    <h2><i><b>MIS EXPERIENCIAS</b></i></h2>
+      <p>En la parte de programacion, no se mucho, se alguna teoria del lenguaje C++ y puedo resover problemas demasiado faciles, como imprimir ciertas frases o sumar, restar, multiplicar y dividir numeros.</p>
+
+    <h3><i><b>CONTACTO</b></i></h3>
+      <p>Si necesitas saber mas de mi, te dejare mi correo y telefono.</p>
+      <p><mark>tatarozo@gmail.com</mark></p>
+      <p><mark>3194841010</mark></p>
+
+    <h4><i><b>PARA QUE ME CONOZCAS MEJOR</b></i></h4>
+
+      <img align=center src="Documentos/IMG_7965.jpg" border=0>
+
+      <img src="Documentos/IMG_7963.jpg" style="position:fixed; top: 0px; left: 0px;"/>
+
+      <img src="Documentos/IMG_7966.jpg" style="position:fixed; bottom: 0px; right: 0px;"/>
+
+      <script>􏰀
+
+      <button type="submit">
+           <b>Saludar</b><br />
+        </button>
+
+  </script>
+
+        </body>
+
+</html>
